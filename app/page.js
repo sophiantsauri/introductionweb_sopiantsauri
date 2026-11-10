@@ -4,7 +4,7 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 
 const ABOUT =
-  "Gue mahasiswa Informatika Universitas Gunadarma yang suka mengubah data dan ide jadi tampilan yang bisa dipakai. Terbiasa dengan React, PHP, dan SQL, dan sekarang lagi serius mendalami front-end, animasi, dan detail kecil yang bikin web terasa hidup.";
+  "Saya Freshgraduate S1 Informatika - Universitas Gunadarma yang suka mengubah data dan ide jadi tampilan yang bisa dipakai. Terbiasa dengan React, PHP, dan SQL, dan sekarang lagi serius mendalami front-end, animasi, dan detail kecil yang bikin web terasa hidup.";
 
 const PROJECTS = [
   { name: "ControlHub", stack: "React, Recharts", desc: "Dashboard untuk memantau progres proyek lewat grafik yang interaktif." },
